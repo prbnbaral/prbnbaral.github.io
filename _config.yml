@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :#get goole site verification code (like a code) and put here
+google_site_verification :# get goole site verification code (like a code) and put here
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
