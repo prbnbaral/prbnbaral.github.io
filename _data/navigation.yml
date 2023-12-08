@@ -10,7 +10,7 @@ main:
     url: /cv/
     
   - title: "News"
-    url: /news/
+    url: /year-archive/
     
   - title: "Pictures"
     url: /pictures/
