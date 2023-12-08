@@ -5,15 +5,18 @@ main:
     
   - title: "Publications"
     url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/
         
   - title: "CV"
     url: /cv/
-    
-  - title: "News"
-    url: /year-archive/
     
   - title: "Pictures"
     url: /images/
 
   - title: "Hobbies"
     url: /hobbies/
+  
+  - title: "Misc"
+    url: /year-archive/
