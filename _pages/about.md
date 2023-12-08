@@ -12,7 +12,7 @@ redirect_from:
 Specialized in **Computational Biophysics**. 
 
 ## Employment
-- **Postdoc Fellow in School of Pharmacy** (*May. 2022-Current*) <br />
+- **Postdoctoral Fellow in School of Pharmacy** (*May. 2022-Current*) <br />
 - **(NIH-T32 Trainee)** (*Aug. 2022-Current*) <br />
   MacKerell Lab, University of Maryland Baltimore, Baltimore, USA
 
