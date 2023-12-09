@@ -6,11 +6,11 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Blog"
+    url: /blog/
+
   - title: "Pictures"
     url: /images/
-
-  - title: "Hobbies"
-    url: /hobbies/
   
   - title: "Misc"
     url: /misc/
