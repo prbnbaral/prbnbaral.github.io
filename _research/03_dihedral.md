@@ -12,10 +12,15 @@ location: "Baltimore, US"
 
 <img src='/images/research_pictures/dihedral.png' width='300' height='300'>
 <br>
+- Parameter reweighing: via Monte Carlo & Machine Learning, and enhanced sampling techniques.
+
+<img src='/images/research_pictures/reweight.png' width='300' height='300'>
+<br>
+
 
 - Exploring Temperature Dependent Conformational Changes in Mitogen Activated Protein Kinases (MAPK) Involved in Inflammation.
 
--Biomolecular simulations, etc...
+-Biomolecular simulations, Computer Aidede Drug Design (CADD), etc...
 
-*University of Maryland Baltimore, Postdoc Program*
+*University of Maryland Baltimore, Postdoc Program, NIH-T32 trainee*
 
