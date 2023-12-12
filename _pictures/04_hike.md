@@ -6,8 +6,9 @@ permalink: /pictures/funmoments
 location: "Nepal"
 ---
 
-## Fun moments with friends on Dolalght trip. The river at the background is a junction of two mighty rivers, Sunkoshi and Indrawati. This pictures keeps reminding me of how friendship flows seamlessly, joining diverse currents to create a bond that runs deep.
+## Dolalghat, at the junction of two mighty rivers, Sunkoshi and Indrawati. Diverse currents creating a bond that runs deep..
 <img src='/images/pictures/dolalghat.jpeg' width='350' height='300'> 
+
 ## Above the city, top of the hill
 <img src='/images/pictures/bhasmeshwor.jpeg' width='350' height='300'>
 
